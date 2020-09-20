@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Vidhya Sagar Thakur Front-End Developer Portfolio</title>
+
+    <!-- Meta Tags -->
+    <meta
+      name="description"
+      content="I'm VS. A Front-End developer intent on developing the sweetest projects I can."
+    />
+    <meta
+      name="keywords"
+      content="VS, Thakur, Portfolio, New Delhi, Front-End, Developer, Javascript, Node.js, CV, Full, Stack"
+    />
+    <meta name="author" content="vs thakur" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="theme-color" content="#000000" />
+
+    <!-- Geo Tags -->
+    <meta name="geo.position" content="38.6857; 176.0702" />
+    <meta name="geo.placename" content="New Delhi, India" />
+    <meta name="geo.region" content="DL-IND" />
+
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!-- Facebook OG Tags -->
+
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta
+      name="msapplication-TileImage"
+      content="%PUBLIC_URL%/img/favicon/ms-icon-144x144.png"
+    />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root"></div>
+
+    <!-- Deferred CSS -->
+    <noscript id="deferred-styles">
+      <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.1.1/css/all.min.css"
+      />
+    </noscript>
+    <script defer>
+      var loadDeferredStyles = function () {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement);
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      };
+      var raf =
+        window.requestAnimationFrame ||
+        window.mozRequestAnimationFrame ||
+        window.webkitRequestAnimationFrame ||
+        window.msRequestAnimationFrame;
+      if (raf)
+        raf(function () {
+          window.setTimeout(loadDeferredStyles, 0);
+        });
+      else window.addEventListener("load", loadDeferredStyles);
+    </script>
+  </body>
+</html>

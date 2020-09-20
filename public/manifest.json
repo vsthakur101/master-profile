@@ -1,0 +1,51 @@
+{
+  "short_name": "VS THAKUR",
+  "name": "VIDHYA SAGAR THAKUR Portfolio",
+  "icons": [
+    {
+      "src": "https://scontent.fdel27-1.fna.fbcdn.net/v/t31.0-8/26233784_957291257759033_8133547502870557064_o.jpg?_nc_cat=109&_nc_sid=174925&_nc_ohc=2emh-3maOjIAX9s8UD1&_nc_ht=scontent.fdel27-1.fna&oh=367b0dc9a9642f9bf2cf333c192f5b4d&oe=5F8E2640",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "https://scontent.fdel27-1.fna.fbcdn.net/v/t31.0-8/26233784_957291257759033_8133547502870557064_o.jpg?_nc_cat=109&_nc_sid=174925&_nc_ohc=2emh-3maOjIAX9s8UD1&_nc_ht=scontent.fdel27-1.fna&oh=367b0dc9a9642f9bf2cf333c192f5b4d&oe=5F8E2640",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "https://scontent.fdel27-1.fna.fbcdn.net/v/t31.0-8/26233784_957291257759033_8133547502870557064_o.jpg?_nc_cat=109&_nc_sid=174925&_nc_ohc=2emh-3maOjIAX9s8UD1&_nc_ht=scontent.fdel27-1.fna&oh=367b0dc9a9642f9bf2cf333c192f5b4d&oe=5F8E2640",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "https://scontent.fdel27-1.fna.fbcdn.net/v/t31.0-8/26233784_957291257759033_8133547502870557064_o.jpg?_nc_cat=109&_nc_sid=174925&_nc_ohc=2emh-3maOjIAX9s8UD1&_nc_ht=scontent.fdel27-1.fna&oh=367b0dc9a9642f9bf2cf333c192f5b4d&oe=5F8E2640",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "https://scontent.fdel27-1.fna.fbcdn.net/v/t31.0-8/26233784_957291257759033_8133547502870557064_o.jpg?_nc_cat=109&_nc_sid=174925&_nc_ohc=2emh-3maOjIAX9s8UD1&_nc_ht=scontent.fdel27-1.fna&oh=367b0dc9a9642f9bf2cf333c192f5b4d&oe=5F8E2640",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    },
+    {
+      "src": "https://scontent.fdel27-1.fna.fbcdn.net/v/t31.0-8/26233784_957291257759033_8133547502870557064_o.jpg?_nc_cat=109&_nc_sid=174925&_nc_ohc=2emh-3maOjIAX9s8UD1&_nc_ht=scontent.fdel27-1.fna&oh=367b0dc9a9642f9bf2cf333c192f5b4d&oe=5F8E2640",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0"
+    },
+    {
+      "src": "https://scontent.fdel27-1.fna.fbcdn.net/v/t31.0-8/26233784_957291257759033_8133547502870557064_o.jpg?_nc_cat=109&_nc_sid=174925&_nc_ohc=2emh-3maOjIAX9s8UD1&_nc_ht=scontent.fdel27-1.fna&oh=367b0dc9a9642f9bf2cf333c192f5b4d&oe=5F8E2640",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
